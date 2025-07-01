@@ -1,6 +1,6 @@
 <!-- ## Hi, I'm Vibhas! 👋 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=&color=001bc7&text=Hi!%20I'm%20Vibha!%20😊s&textBg=false&fontColor=ffffe8&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=&color=001bc7&text=Hi!%20I'm%20Vibhas!%20😊&textBg=false&fontColor=ffffe8&animation=fadeIn"/>
 </p>
 <!-- **VibhasR/vibhasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
