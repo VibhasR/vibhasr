@@ -7,7 +7,7 @@
 
 <h2> 🧠 &nbsp;Here is a bit about me!</h2>
 <ul align="left">
-  <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png" alt="vscode" width="24.25" height="24.25"/>I'm pursuing a    <strong>Computer Science Specialist</strong> with a <strong>Statistics Minor</strong> at the <strong><em>University of Toronto</em></strong></li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/en/0/04/Utoronto_coa.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" alt="vscode" width="24.25" height="24.25"/>I'm pursuing a    <strong>Computer Science Specialist</strong> with a <strong>Statistics Minor</strong> at the <strong><em>University of Toronto</em></strong></li>
   <li> 📈 I'm passionate about <strong>financial tech</strong> and driving new solutions to boost financial literacy for everyone </li>
   <li> 👨‍⚖️ I'm also super interested in legal studies and the convergence of <strong>ethics in AI</strong> and disputes in <strong>IP law and cyberlaw</strong></li>
 </ul>
